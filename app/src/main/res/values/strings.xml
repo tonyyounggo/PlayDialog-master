@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlayDialog</string>
+    <string-array name="response">
+        <item>我知道</item>
+        <item>少狗腿</item>
+        <item>大家都那麼說</item>
+
+    </string-array>
+    
+    
+</resources>

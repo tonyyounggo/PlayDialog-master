@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "789737995203",
+    "firebase_url": "https://playdialog-master.firebaseio.com",
+    "project_id": "playdialog-master",
+    "storage_bucket": "playdialog-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789737995203:android:777dcbad50caac04",
+        "android_client_info": {
+          "package_name": "com.example.nikeru8.playdialog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789737995203-fbohefb4258prqo3dtum44k5mv0bj7te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nikeru8.playdialog",
+            "certificate_hash": "09d6ff0c0b51580991c36d874f009fbdc3b0685d"
+          }
+        },
+        {
+          "client_id": "789737995203-o2h4ho0qs21beluu3cbpab5h5p46laoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmx5uy3ZJHGlPtoujaQz-3NGoCsuwpqpI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789737995203-o2h4ho0qs21beluu3cbpab5h5p46laoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

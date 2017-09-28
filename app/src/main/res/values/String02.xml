@@ -1,0 +1,12 @@
+
+<resources>
+    <string name="TonyArry">TonyPlayDialog</string>
+    <string-array name="response02">
+        <item> 一號鐵雄</item>
+        <item> 二號大明</item>
+        <item> 三號珍珍</item>
+        <item> 四號阿丁</item>
+        <item> 五號阿龍</item>
+    </string-array>
+
+</resources>
